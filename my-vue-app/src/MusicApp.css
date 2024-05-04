@@ -1,0 +1,84 @@
+.previous {
+    color: grey;
+}
+
+/* .current {
+    background-color: rgb(254, 223, 237);
+} */
+
+.chord-lyric-display {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chord-lyric-item {
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    border: 1px solid grey;
+    /* margin-bottom: 0.5em; */
+    min-width: 50px;
+}
+
+/* .past {
+    color: grey;
+    background-color: rgb(231, 231, 231);
+} */
+
+.chord-lyric-item-past {
+    /* background-color: rgb(220, 209, 209); */
+}
+
+
+
+.chord-lyric-item-current {
+    /* border: 1px solid grey; */
+    background-color: rgb(232, 200, 255);
+}
+
+.chord-lyric-item-future {
+    background-color: rgb(220, 209, 209);
+}
+
+
+
+.bar-divider {
+    border-left: 2px solid black;
+}
+
+body {
+    background-color: rgb(202, 169, 169);
+    /* align-items: center; */
+    justify-content: center;
+    display: flex;
+}
+
+.special {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.chord {
+    align-self: flex-start;
+    height: 1.3em;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 4px;
+
+}
+
+.lyric {
+    align-self: flex-end;
+    height: 1.3em
+}
+
+.line {}
+
+svg {
+    height: 150px;
+}
+
+.instructions {
+    height: 1.3em;
+    color: purple;
+    font-family: Courier, monospace;
+    background-color: seashell;
+}

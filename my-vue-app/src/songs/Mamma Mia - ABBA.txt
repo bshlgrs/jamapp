@@ -1,0 +1,97 @@
+key D
+#i
+D D(#5) D D(#5)
+|_piano|K:D\n|: AeAeAeAf|AfAfAfAe:|
+D D(#5) D D(#5)
+|_horns etc come in|K:D\n|:ABdf z4| z2 fefe d2:|
+#v
+D.. A/D.. D G % 
+_I've been _cheated by you_ since I don't know when_|_full band
+D.. A/D.. D G %
+_So I _made up my mi_nd, it must come to an end_
+D D(#5)
+_Look at me now,_ will I ever learn?
+D D(#5) G
+_I don't know how,_ but I suddenly lo_se control
+G A
+_ There's a fire with_in my soul
+#p
+A.. G. D. A
+_ _Just _one _look and I can hear a bell ring
+A.. G. D. A A
+_ _One _more _look and I forget everything, _ whoa
+#c
+D %
+_ Mamma mia, _ here I go again|_cut all but piano
+G. C. G.. G.. A..
+_ _My _my, how _ can I res_ist you?
+D %
+_ Mamma mia, _ does it show again?
+G. C. G.. G.. A..
+_ _My _my, just _ how much I've _missed you
+D A/C#
+_ Yes, I've been bro_ken-hearted|_band comes in
+Bm7 A
+_ Blue since the d_ay we parted
+G. C. G.. Em7.. A..
+_ _Why, _why _ did I ever _let you go?
+D Bm7
+_ Mamma mia, _ now I really know
+G. C. G.. Em7.. A..
+_ _My _my, I _ could never _let you go
+#instrumental
+D D(#5) D D(#5)
+|_just the two melodies|K:D\n|:ABdf z4| z2 fefe d2:|
+#v
+_I've been _angry and s_ad about things that you do_|_full band
+_I can't _count all the ti_mes that I've told you we're through_
+_And when you go,_ when you slam the door
+_I think you know_ that you won't be away _ too long
+_ You know that I'm not _ that strong
+#p
+A.. G. D. A
+_ _Just _one _look and I can hear a bell ring
+A.. G. D. A A
+_ _One _more _look and I forget everything, _ whoa
+#c
+_ Mamma mia, _ here I go again
+G. C. G.. G.. A..
+_ _My _my, how _ can I res_ist you?
+_ Mamma mia, _ does it show again?
+G. C. G.. G.. A..
+_ _My _my, just _ how much I've _missed you
+_ Yes, I've been bro_ken-hearted
+_ Blue since the d_ay we parted
+_ _Why, _why _ did I ever _let you go?
+D %
+_ Mamma mia, _ even if I say
+G. C. G.. G
+_ _"Bye-_bye", _ leave me now or never
+D %
+_ Mamma mia, _ it's a game we play
+G. C. G.. G
+_ _"Bye-_bye" _ doesn't mean forever
+D %
+_ Mamma mia, _ here I go again
+G. C. G.. G
+_ _My _my, _ how can I resist you?
+D %
+_ Mamma mia, _ does it show again
+G. C. G.. G
+_ _My _my, just _ how much I've missed you?
+D A/C#
+_ Yes, I've been bro_ken-hearted
+Bm7 A
+_ Blue since the d_ay we parted
+G. C. G.. Em7.. A..
+_ _Why, _why _ did I ever _let you go?
+D Bm7
+_ Mamma mia, _ now I really know
+G. C. G.. Em7.. A..
+_ _My _my, I _ could never _let you go
+#o
+D D(#5) D D(#5)
+|_band cuts, horns and guitar play theme|K:D\n|:ABdf z4| z2 fefe d2:|
+D D(#5) D D(#5) D
+|_____gentle hit|K:D\n|ABdf z4| z2 fefe d2| ABdf z4| z2 fefe dB | d4
+

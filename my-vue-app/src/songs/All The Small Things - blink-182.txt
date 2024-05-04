@@ -1,0 +1,80 @@
+key C
+#i
+C5 F5 G5 F5 
+|_loud
+C5 F5 G5 F5 
+#v
+C5 G5 
+_ All the_ small things_|_sparse
+F5 G5 
+_ True care,_ truth brings_
+C5 G5 
+_ I'll take_ one lift
+F5 G5 
+_ Your ride,_ best trip
+C5 G5 
+_ Always,_ I know
+F5 G5 
+_ You'll be_ at my show_
+C5 G5 F5 G5
+_ Watching,_ waiting,_ Commi_serating
+#p
+C5 % G5
+_ Say it ain't _so, I will not _go|_hold chords
+F5 C5 
+Turn the lights _off, carry me _home
+#c
+C5 
+Na-na, na-na, na-na,_ na-na, na, na|loud
+G5 F5
+_Na-na, na-na, na-na,_ na-na, na, na
+C5 % 
+_Na-na, na-na, na-na,_ na-na, na, na
+G5 F5
+_Na-na, na-na, na-na,_ na-na, na, na
+#instrumental
+C5 Csus4.. C.. G5 F5 
+C5 Csus4.. C.. G5 F5 
+#v
+C5 G5
+_ Late night, _come home|_sparse
+F5 G5
+_ Work sucks,_ I know
+C5 G5 F5
+_ She left me _roses by the _stairs
+G5
+Sur_prises let me know she cares
+#p
+C5 % G5
+_ Just say it ain't _so, I will not _go|_hit single chords
+F5 C5 
+Turn the lights _off, carry me _home|__loud and heavy
+#c
+Na-na, na-na, na-na,_ na-na, na, na
+_Na-na, na-na, na-na,_ na-na, na, na
+_Na-na, na-na, na-na,_ na-na, na, na
+_Na-na, na-na, na-na,_ na-na, na, na
+#i2
+C % F5 G5
+|_Go quiet, crescendo over next 16 bars
+C % F5 G5
+C % F5 G5
+C % F5 G5
+#b
+C5 % G5
+_ Say it ain't _so, I will not _go|_Loud and busy
+F5 C5
+Turn the lights _off, carry me _home
+C5 G5
+Keep your head _still, I'll be your _thrill
+F5 C5
+The night will go _on, my little wind_mill
+#o
+C5 G5
+Say it ain't _so, I will not _go (Na-na, na-na, na-na, na-na, na, na)
+F5 C5
+Turn the lights _off, carry me _home (Na-na, na-na, na-na,_ na-na, na, na)
+C5 G5
+Keep your head _still, I'll be your _thrill (Na-na, na-na, na-na,_ na-na, na, na)
+F5 % C5
+The night will go _on, the night will go _on, my little wind_mill (Na-na, na-na, na-na,_ na-na, na, na)
